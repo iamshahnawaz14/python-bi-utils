@@ -1,2 +1,6 @@
-# python-bi-utils
-A collection of Python utility scripts for data preparation, SQL extraction, and streamlining pipelines for Power BI, Tableau, and Databricks workflows.
+# Python BI Utils (python-bi-utils)
+
+A lightweight collection of Python utility scripts designed to accelerate data preparation and streamline pipelines for Business Intelligence platforms. 
+
+## Features
+* **Automated Data Cleaning:** Standardize schemas, handle null values, and format date columns.
